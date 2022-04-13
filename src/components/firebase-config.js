@@ -8,11 +8,11 @@ import {getStorage} from "firebase/storage"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCtL0xSix3qcc3pwtHuhpjGiWa27HlxF-4",
+  apiKey: "AIzaSyCQk2uwB3kPZw5m872808ZcrTzk5J1h8Y4",
   authDomain: "lsetf-rebuild-greattt.firebaseapp.com",
   projectId: "lsetf-rebuild-greattt",
   storageBucket: "lsetf-rebuild-greattt.appspot.com",
-  messagingSenderId: "636927484813",
+  messagingSenderId: "976458438651",
   appId: "1:976458438651:web:03eed6f5879e5e529c5d5e"
 };
 
